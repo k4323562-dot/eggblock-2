@@ -52,7 +52,8 @@ chicken_type_loot_table = {
                 "type": "minecraft:set_components",
                 "components": {
                     "minecraft:equippable": {
-                        "slot": "body"
+                        "slot": "body",
+                        "equip_sound": "minecraft:intentionally_empty"
                     }
                 }
             }
