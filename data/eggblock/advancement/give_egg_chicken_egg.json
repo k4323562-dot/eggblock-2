@@ -5,6 +5,6 @@
         }
     },
     "rewards": {
-        "function": "eggblock:summon_egg_chicken"
+        "function": "eggblock:egg_chicken_egg"
     }
 }

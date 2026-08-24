@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "minecraft:predicates": {
+            "minecraft:custom_data": {
+                "eggblock_type": "random"
+            }
+        }
+    }
+}

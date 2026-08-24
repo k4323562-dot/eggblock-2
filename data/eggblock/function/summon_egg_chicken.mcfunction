@@ -1,1 +1,0 @@
-summon chicken ~ ~ ~ {equipment:{body:{id:egg}}}

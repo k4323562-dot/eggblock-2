@@ -1,0 +1,1 @@
+give @s egg[custom_data={eggblock_type:egg,eggblock_chance:1.0},item_name=[{translate:"item.minecraft.egg"}," ",{translate:"entity.minecraft.chicken"}," ",{translate:"item.minecraft.egg"}]]

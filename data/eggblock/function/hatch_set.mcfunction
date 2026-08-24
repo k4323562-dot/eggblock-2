@@ -1,0 +1,1 @@
+$summon chicken ~ ~ ~ {equipment:{body:{id:$(eggblock_type)}}}
