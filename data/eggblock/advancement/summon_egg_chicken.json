@@ -1,0 +1,10 @@
+{
+    "criteria": {
+        "spawn": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "rewards": {
+        "function": "eggblock:summon_egg_chicken"
+    }
+}
