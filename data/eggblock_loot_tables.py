@@ -54,6 +54,9 @@ chicken_type_loot_table = {
                     "minecraft:equippable": {
                         "slot": "body",
                         "equip_sound": "minecraft:intentionally_empty"
+                    },
+                    "minecraft:enchantments": {
+                        "minecraft:vanishing_curse": 1
                     }
                 }
             }

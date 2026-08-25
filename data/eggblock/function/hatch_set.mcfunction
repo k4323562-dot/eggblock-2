@@ -1,1 +1,1 @@
-$summon chicken ~ ~ ~ {equipment:{body:{id:$(eggblock_type),components:{equippable:{slot:body,equip_sound:intentionally_empty}}}}}
+$summon chicken ~ ~ ~ {equipment:{body:{id:$(eggblock_type),components:{equippable:{slot:body,equip_sound:intentionally_empty}}}},drop_chances:{body:0}}
