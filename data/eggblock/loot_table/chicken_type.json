@@ -824,6 +824,10 @@
                 },
                 {
                     "type": "item",
+                    "name": "buried_trial_chambers_map"
+                },
+                {
+                    "type": "item",
                     "name": "burn_pottery_sherd"
                 },
                 {
@@ -2876,10 +2880,6 @@
                 },
                 {
                     "type": "item",
-                    "name": "jungle_explorer_map"
-                },
-                {
-                    "type": "item",
                     "name": "jungle_fence"
                 },
                 {
@@ -2905,6 +2905,10 @@
                 {
                     "type": "item",
                     "name": "jungle_pressure_plate"
+                },
+                {
+                    "type": "item",
+                    "name": "jungle_pyramid_map"
                 },
                 {
                     "type": "item",
@@ -3896,7 +3900,7 @@
                 },
                 {
                     "type": "item",
-                    "name": "ocean_explorer_map"
+                    "name": "ocean_monument_map"
                 },
                 {
                     "type": "item",
@@ -5732,7 +5736,7 @@
                 },
                 {
                     "type": "item",
-                    "name": "swamp_explorer_map"
+                    "name": "swamp_hut_map"
                 },
                 {
                     "type": "item",
@@ -5817,10 +5821,6 @@
                 {
                     "type": "item",
                     "name": "trapped_chest"
-                },
-                {
-                    "type": "item",
-                    "name": "trial_explorer_map"
                 },
                 {
                     "type": "item",
@@ -6508,7 +6508,7 @@
                 },
                 {
                     "type": "item",
-                    "name": "woodland_explorer_map"
+                    "name": "woodland_mansion_map"
                 },
                 {
                     "type": "item",

@@ -3089,6 +3089,21 @@
                                 "predicate": {
                                     "minecraft:equipment": {
                                         "body": {
+                                            "items": "buried_trial_chambers_map"
+                                        }
+                                    }
+                                }
+                            },
+                            "name": "buried_trial_chambers_map"
+                        },
+                        {
+                            "type": "minecraft:item",
+                            "condition": {
+                                "type": "minecraft:entity_properties",
+                                "entity": "this",
+                                "predicate": {
+                                    "minecraft:equipment": {
+                                        "body": {
                                             "items": "burn_pottery_sherd"
                                         }
                                     }
@@ -10784,21 +10799,6 @@
                                 "predicate": {
                                     "minecraft:equipment": {
                                         "body": {
-                                            "items": "jungle_explorer_map"
-                                        }
-                                    }
-                                }
-                            },
-                            "name": "jungle_explorer_map"
-                        },
-                        {
-                            "type": "minecraft:item",
-                            "condition": {
-                                "type": "minecraft:entity_properties",
-                                "entity": "this",
-                                "predicate": {
-                                    "minecraft:equipment": {
-                                        "body": {
                                             "items": "jungle_fence"
                                         }
                                     }
@@ -10895,6 +10895,21 @@
                                 }
                             },
                             "name": "jungle_pressure_plate"
+                        },
+                        {
+                            "type": "minecraft:item",
+                            "condition": {
+                                "type": "minecraft:entity_properties",
+                                "entity": "this",
+                                "predicate": {
+                                    "minecraft:equipment": {
+                                        "body": {
+                                            "items": "jungle_pyramid_map"
+                                        }
+                                    }
+                                }
+                            },
+                            "name": "jungle_pyramid_map"
                         },
                         {
                             "type": "minecraft:item",
@@ -14609,12 +14624,12 @@
                                 "predicate": {
                                     "minecraft:equipment": {
                                         "body": {
-                                            "items": "ocean_explorer_map"
+                                            "items": "ocean_monument_map"
                                         }
                                     }
                                 }
                             },
-                            "name": "ocean_explorer_map"
+                            "name": "ocean_monument_map"
                         },
                         {
                             "type": "minecraft:item",
@@ -21494,12 +21509,12 @@
                                 "predicate": {
                                     "minecraft:equipment": {
                                         "body": {
-                                            "items": "swamp_explorer_map"
+                                            "items": "swamp_hut_map"
                                         }
                                     }
                                 }
                             },
-                            "name": "swamp_explorer_map"
+                            "name": "swamp_hut_map"
                         },
                         {
                             "type": "minecraft:item",
@@ -21815,21 +21830,6 @@
                                 }
                             },
                             "name": "trapped_chest"
-                        },
-                        {
-                            "type": "minecraft:item",
-                            "condition": {
-                                "type": "minecraft:entity_properties",
-                                "entity": "this",
-                                "predicate": {
-                                    "minecraft:equipment": {
-                                        "body": {
-                                            "items": "trial_explorer_map"
-                                        }
-                                    }
-                                }
-                            },
-                            "name": "trial_explorer_map"
                         },
                         {
                             "type": "minecraft:item",
@@ -24404,12 +24404,12 @@
                                 "predicate": {
                                     "minecraft:equipment": {
                                         "body": {
-                                            "items": "woodland_explorer_map"
+                                            "items": "woodland_mansion_map"
                                         }
                                     }
                                 }
                             },
-                            "name": "woodland_explorer_map"
+                            "name": "woodland_mansion_map"
                         },
                         {
                             "type": "minecraft:item",
