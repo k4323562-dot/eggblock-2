@@ -6,10 +6,10 @@ os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 def get_version(mcversion):
     version_manifest = json.load(urllib.request.urlopen("https://piston-meta.mojang.com/mc/game/version_manifest_v2.json"))
-    if mcversion == "latest-release":
-        return version_manifest["latest"]["release"]
-    elif mcversion == "latest-snapshot":
-        return version_manifest["latest"]["snapshot"]
+    if mcversion == "26.1.2":
+        return version_manifest["26.1.2"]
+    elif mcversion == "26.1.2":
+        return version_manifest["26.1.2"]
     else:
         return mcversion
 
